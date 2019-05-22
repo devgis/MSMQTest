@@ -1,0 +1,4 @@
+E:\提升\MSMQTest\MSMQTest\bin\Debug\MSMQTest.exe
+E:\提升\MSMQTest\MSMQTest\bin\Debug\MSMQTest.pdb
+E:\提升\MSMQTest\MSMQTest\obj\x86\Debug\MSMQTest.exe
+E:\提升\MSMQTest\MSMQTest\obj\x86\Debug\MSMQTest.pdb
